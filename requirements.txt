@@ -7,3 +7,4 @@ altair==5.5.0
 plotly==5.22.0
 SQLAlchemy==2.0.38
 streamlit-aggrid==1.1.4.post1
+PyMySQL==1.1.1
